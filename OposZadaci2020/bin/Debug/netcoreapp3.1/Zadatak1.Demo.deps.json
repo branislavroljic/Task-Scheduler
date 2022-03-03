@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zadatak1.Demo/1.0.0": {
+        "dependencies": {
+          "Zadatak1": "1.0.0"
+        },
+        "runtime": {
+          "Zadatak1.Demo.dll": {}
+        }
+      },
+      "Zadatak1/1.0.0": {
+        "runtime": {
+          "Zadatak1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadatak1.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zadatak1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
